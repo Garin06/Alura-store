@@ -6,7 +6,7 @@ El presente proyecto tiene como objetivo ayudar al Señor Juan en la toma de dec
 
 ## Análisis a realizar
 
-El análisis de datos se llevará a cabo en 5 áreas especificas:
+El Señor Juan ha proporcionado las bases de datos de sus 4 tiendas, en base a esto aislaremos los datos con el fin de obtener una respuesta justificada en los número hasta el día de hoy. El análisis de datos se llevará a cabo en 5 áreas especificas:
 
 - Facturación total de cada tienda
 - Categorías más populares
